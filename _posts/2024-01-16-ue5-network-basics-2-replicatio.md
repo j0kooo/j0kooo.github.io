@@ -7,7 +7,7 @@ categories: [Unreal Engine, Analysis]
 tags: [Unreal Engine, Network, RPC, Property Replication]
 ---
 ## 시작
-지난번에 이어 2부입니다! [1부](https://goaway-1.github.io/posts/UE5-언리얼-네트워크-기초-2부/)에서는 전체적인 프레임워크에 대해서 배웠다면, 2부에서는 실제로 프로그래밍에 있어 딱 필요한 정보인 `RPC`와 `Property Replication`에 대해서 준비해 봤습니다. 
+지난번에 이어 2부입니다! [1부](https://j0kooo.github.io/posts/ue5-network-basics-1-framework/)에서는 전체적인 프레임워크에 대해서 배웠다면, 2부에서는 실제로 프로그래밍에 있어 딱 필요한 정보인 `RPC`와 `Property Replication`에 대해서 준비해 봤습니다. 
 
 <br>
 
